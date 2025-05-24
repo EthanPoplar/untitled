@@ -22,6 +22,7 @@ public class FlightCollection {
 	public static Flight getFlightInfo(String city1, String city2)
 	{
 		//display the flights where there is a direct flight from city 1 to city2
+		//hello
 		Flight flight = null;
 		for (Flight f : flights)
 		{
